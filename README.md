@@ -1,5 +1,5 @@
 # Stock-market-ML
-A prediction about Stock Market (Machine Learning Project)
+This Python Django project showcases the utilization of machine learning techniques to predict the "High Price" of a financial instrument based on historical data. The project primarily revolves around the implementation of linear regression, a fundamental machine learning algorithm for regression tasks.
 # How to Run:
 Clone this project:
 
